@@ -35,10 +35,10 @@ async function handleCommands(post: Post) {
 
   if (boop) {
     construction.push('booped');
-    attachment = 'https://media1.tenor.com/m/1Ssp5wMkhfkAAAAC/boop-cat-boop.gif';
+    attachment = 'https://midnightdoggo19.com/assets/boop/boop_optimized.gif'; // can change if want // TODO: make this a .env thing
   } else if (bonk) {
     construction.push('bonked');
-    attachment = 'https://media1.tenor.com/m/udpvUVcjpZAAAAAC/bonk.gif';
+    attachment = 'https://midnightdoggo19.com/assets/boop/bonk_optimized.gif';
   } else {
     return;
   }
